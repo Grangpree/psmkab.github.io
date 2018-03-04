@@ -3,7 +3,7 @@ name: 박성민
 title: parksungmin _ Tech blog
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
+baseurl: "psmkab.github.io" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
