@@ -1,10 +1,7 @@
 # Profile information
-name: Fresh
-title: Fresh - Free Jekyll Theme
+name: 박성민
+title: parksungmin _ Tech blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/fresh" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,10 +10,10 @@ url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http:
 facebook: #Add your Facebook
 twitter: #Add your Twitter
 google-plus: #Add your Google+
-github: #Add your Github
+github: psmkab/psmkab.github.io
 
 # Contact form
-email: #your-email@domain.com
+email: psmkab10@gmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
